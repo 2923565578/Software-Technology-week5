@@ -1,2 +1,8 @@
-# Software-Technology-week5
-Software Technology week5
+# Streamy Software Technology
+
+Lab4: Streamy Video Streaming Core Engine
+
+## Files
+
+- `SRS.md`: Software Requirements Specification
+- `c4-system-context.md`: C4 System Context Diagram
